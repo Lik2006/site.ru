@@ -20,6 +20,7 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
+define('REVISR_GIT_PATH', ''); // Added by Revisr
 define('DB_NAME', 'admin');
 
 /** Имя пользователя MySQL */
